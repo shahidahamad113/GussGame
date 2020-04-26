@@ -2,11 +2,11 @@
 
 ### rgb Gussing Game 
 
-##Screenshots
+## Screenshots
 
-##Built with
+## Built with
 
-###Built With
+### Built With
 <ul>
   <li>JavaScript</li>
   <li>HTML</li>
@@ -14,7 +14,7 @@
   <li>Node.app</li>
  </ul>
   
-  ###do npm install
+  ### do npm install
   
 ![Screenshot (652)](https://user-images.githubusercontent.com/57061366/80312771-d4396780-8804-11ea-8e2c-8db44ca0d6fc.png)
 
