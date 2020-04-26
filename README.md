@@ -1,6 +1,6 @@
 # GussGame
 
-### rgb Gussing Game 
+### rgb Guessing Game 
 
 ## Screenshots
 
