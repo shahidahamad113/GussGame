@@ -11,7 +11,7 @@
   <li>JavaScript</li>
   <li>HTML</li>
   <li>CSS</li>
-  <li>Node.app</li>
+  <li>Node.js</li>
  </ul>
   
   ### do npm install
